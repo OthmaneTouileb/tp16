@@ -122,5 +122,7 @@ Ce projet est un travail pratique éducatif.
 
 ---
 
-**Développé avec ❤️ en utilisant React**
+
+https://github.com/user-attachments/assets/50404a93-f0fa-4a5d-9691-43c994f3be30
+
 
